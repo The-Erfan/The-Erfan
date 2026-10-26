@@ -21,6 +21,6 @@ M.E.O is a compact, Flipper Zero-inspired handheld system built around the **ESP
 
 ## 📫 Get in Touch
 - Email: ................ erfan.e.s.001@gmail.com
-- Instagram: ...... @the_erfan_e.s
+- Instagram: ....... @the_erfan_e.s
 - Youtube: .......... @The_Erfan_E.S
 - Telegram: ........ @the_erfan_e_s
